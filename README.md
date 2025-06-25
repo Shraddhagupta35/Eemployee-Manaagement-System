@@ -1,1 +1,3 @@
-# Eemployee-Manaagement-System
+# Employee-Management-System
+
+## React + Vite
